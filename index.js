@@ -51,7 +51,7 @@ client.on("interactionCreate", (interaction) => {
 })
 
 
-const welcomeChannelId = "585550060444450836"
+const welcomeChannelId = "970291417815601172"
 
 // IMAGE WELCOME
 client.on("guildMemberAdd", async (member) => {

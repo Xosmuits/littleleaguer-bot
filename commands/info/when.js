@@ -1,5 +1,5 @@
 module.exports = {
-    name: "when",
+    name: "date",
     category: "info",
     permission: [],
     devOnly: false,
